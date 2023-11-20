@@ -1,3 +1,12 @@
+## simple Bar Chart
+
+![E197739A-4C0B-49F7-8D87-62328386BDE8_1_105_c](https://github.com/samima55/simple_barChart/assets/54752074/4cadd968-daab-44eb-980e-0419efe9283c)
+
+when hovered
+
+![B44681B0-E097-4E79-9092-E38D520AB1B3_1_105_c](https://github.com/samima55/simple_barChart/assets/54752074/ca651946-aacf-486e-8186-173db4291668)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
