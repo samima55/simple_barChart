@@ -17,7 +17,7 @@ const SimpleBarChart: React.FC = () => {
   
   return (
     <div className="flex flex-col justify-center items-center h-screen">
-       <h1 className="text-2xl font-bold mt-20 text-white">CO2 Emission Rate vs Country Bar Chart</h1>
+       <h1 className="font-bold mt-20 text-white">CO2 Emission Rate vs Country Bar Chart year 2010</h1>
      <ResponsiveContainer width="80%" height="80%" aspect={3} className="mt-20">
         <BarChart data={data}>
           <CartesianGrid strokeDasharray="2 2" />
