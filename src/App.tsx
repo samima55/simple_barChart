@@ -1,5 +1,5 @@
 import React from 'react';
-import SimpleBarChart from './charts/SimpleBarChart';
+import SimpleBarChart from './charts/simpleBarChart';
 import 'tailwindcss/tailwind.css';
 
 const App: React.FC = () =>{
